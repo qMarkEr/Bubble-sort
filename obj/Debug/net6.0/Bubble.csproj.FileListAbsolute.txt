@@ -1,0 +1,15 @@
+D:\C#\Bubble-sort\bin\Debug\net6.0\Bubble.exe
+D:\C#\Bubble-sort\bin\Debug\net6.0\Bubble.deps.json
+D:\C#\Bubble-sort\bin\Debug\net6.0\Bubble.runtimeconfig.json
+D:\C#\Bubble-sort\bin\Debug\net6.0\Bubble.dll
+D:\C#\Bubble-sort\bin\Debug\net6.0\Bubble.pdb
+D:\C#\Bubble-sort\obj\Debug\net6.0\Bubble.csproj.AssemblyReference.cache
+D:\C#\Bubble-sort\obj\Debug\net6.0\Bubble.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bubble-sort\obj\Debug\net6.0\Bubble.AssemblyInfoInputs.cache
+D:\C#\Bubble-sort\obj\Debug\net6.0\Bubble.AssemblyInfo.cs
+D:\C#\Bubble-sort\obj\Debug\net6.0\Bubble.csproj.CoreCompileInputs.cache
+D:\C#\Bubble-sort\obj\Debug\net6.0\Bubble.dll
+D:\C#\Bubble-sort\obj\Debug\net6.0\refint\Bubble.dll
+D:\C#\Bubble-sort\obj\Debug\net6.0\Bubble.pdb
+D:\C#\Bubble-sort\obj\Debug\net6.0\Bubble.genruntimeconfig.cache
+D:\C#\Bubble-sort\obj\Debug\net6.0\ref\Bubble.dll
